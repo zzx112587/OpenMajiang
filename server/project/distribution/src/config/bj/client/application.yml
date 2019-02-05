@@ -3,8 +3,8 @@ server:
       enabled: true
       mime-types: application/json,application/xml,text/html,text/xml,text/plain
 site:
-    title: 北京麻将
-    serverUrl: ws://www.openmajiang.com:8010/g
+    title: 我的麻将游戏哈哈哈
+    serverUrl: ws://dev.zbycorp.com:8010/g
 application:
     message: Hello, Andy
 
